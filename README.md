@@ -9,10 +9,6 @@ Blog Hub is a platform designed to help you discover the best blogs from reputab
 - [Running Locally](#running-locally)
 - [Running with Docker](#running-with-docker)
 - [Deploying to Kubernetes](#deploying-to-kubernetes)
-  - [Step 1: Create a Kubernetes Cluster](#step-1-create-a-kubernetes-cluster)
-  - [Step 2: Install Helm Chart](#step-2-install-helm-chart)
-  - [Step 3: Expose the Service](#step-3-expose-the-service)
-- [License](#license)
 
 ## Prerequisites
 
