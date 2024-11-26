@@ -1,4 +1,11 @@
-# Blog Hub
+<div align="center">
+  <h1>Blog Hub - Know what's new in tech</h1>
+
+  [![GitHub last commit](https://img.shields.io/github/last-commit/1Shubham7/BlogHub)](#)
+  ![GitHub language count](https://img.shields.io/github/languages/count/1Shubham7/BlogHub)
+  ![GitHub top language](https://img.shields.io/github/languages/top/1Shubham7/BlogHub)
+
+</div>
 
 Blog Hub is a platform designed to help you discover the best blogs from reputable authors across the globe on any topic in the field of technology. It is a React application containerized using Docker and deployed on Kubernetes along with Helm charts to manage it.
 
