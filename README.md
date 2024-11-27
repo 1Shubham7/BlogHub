@@ -101,3 +101,11 @@ kubectl port-forward svc/react-chart 8000:80
 And with that we will have our blog application running in the `localhost:8000` of our machine:
 
 ![image](https://github.com/1Shubham7/BlogHub/assets/116020663/423ea939-8090-4ace-a237-2c0db2a6c841)
+
+## 🤝 Contributing
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/1shubham7/BlogHub)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/1shubham7/BlogHub)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/1shubham7/BlogHub) 
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/1shubham7/BlogHub) 
+
+Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make our application more robust and user-friendly. Please feel free to contribute by [submitting an issue](https://github.com/1Shubham7/BlogHub/issues) or [joining the discussions](https://github.com/orgs/Abblix/discussions). Each contribution helps us grow and improve. If you would like to contribute to this project, please read the [Contribution guidelines](CONTRIBUTING.md) and make sure to follow the [Code Of Conduct](CODE_OF_CONDUCT.md).
